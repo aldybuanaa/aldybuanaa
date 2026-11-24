@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Aldy · Halo, saya Aldy
+# 👋 Hi, I'm Aldy
 
 **iOS Engineer & Fullstack · AI-Native Builder**
-*Membangun antarmuka yang terasa hidup dan aplikasi mobile yang rapi.*
 *Building interfaces that feel alive and mobile apps that feel right.*
 
 📍 Surakarta, Indonesia · 🎓 Universitas Muhammadiyah Surakarta
@@ -12,13 +11,13 @@
 
 ---
 
-## 🧭 About · Tentang
+## 🧭 About
 
-- 🎨 **Frontend:** Vue, React, Svelte, Astro (fokus utama)
-- 📱 **Mobile:** iOS native (Swift/SwiftUI) dan multiplatform
+- 🎨 **Frontend:** Vue, React, Svelte, Astro (main focus)
+- 📱 **Mobile:** Native iOS (Swift/SwiftUI) and multiplatform
 - ⚙️ **Backend:** Go, Node.js, .NET
-- 🤖 **AI:** AI-native engineering, membangun fitur dan tooling berbasis LLM
-- 🚀 **DevOps:** Docker dan CI/CD dasar dengan GitHub Actions
+- 🤖 **AI:** AI-native engineering, building LLM-powered features and tooling
+- 🚀 **DevOps:** Docker and basic CI/CD with GitHub Actions
 
 ---
 
@@ -42,14 +41,14 @@
 
 ---
 
-## 🔭 Featured Projects · Proyek Unggulan
+## 🔭 Featured Projects
 
-- 🧠 **[aisix](https://github.com/aldybuanaa/aisix)**: AI gateway open-source (Rust) dengan API kompatibel OpenAI untuk berbagai provider LLM.
-- 🖥️ **[aisix-admin-ui](https://github.com/aldybuanaa/aisix-admin-ui)**: Dashboard admin untuk AISIX Gateway, dibangun dengan Vue 3 dan TypeScript.
+- 🧠 **[aisix](https://github.com/aldybuanaa/aisix)**: Open-source AI gateway (Rust) with an OpenAI-compatible API for multiple LLM providers.
+- 🖥️ **[aisix-admin-ui](https://github.com/aldybuanaa/aisix-admin-ui)**: Admin dashboard for AISIX Gateway, built with Vue 3 and TypeScript.
 
 ---
 
-## 📊 GitHub Stats · Statistik
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldybuanaa&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -63,14 +62,13 @@
 
 ---
 
-## 📫 Connect · Hubungi Saya
+## 📫 Connect
 
 - 💼 LinkedIn: [Afrialdy Asyura Buana](https://www.linkedin.com/in/afrialdyasyurab/)
 - 🐦 Twitter/X: [@AfrialdyAsyuraB](https://twitter.com/AfrialdyAsyuraB)
 
 <div align="center">
 
-*"Kode yang baik dibaca manusia dulu, baru mesin."*
 *"Good code is read by humans first, machines second."*
 
 </div>
