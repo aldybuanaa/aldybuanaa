@@ -65,6 +65,7 @@
 
 ## 📫 Connect · Hubungi Saya
 
+- 💼 LinkedIn: [Afrialdy Asyura Buana](https://www.linkedin.com/in/afrialdyasyurab/)
 - 🐦 Twitter/X: [@AfrialdyAsyuraB](https://twitter.com/AfrialdyAsyuraB)
 
 <div align="center">
