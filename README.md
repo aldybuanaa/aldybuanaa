@@ -5,7 +5,7 @@
 **iOS Engineer & Fullstack · AI-Native Builder**
 *Building interfaces that feel alive and mobile apps that feel right.*
 
-📍 Surakarta, Indonesia · 🎓 Universitas Muhammadiyah Surakarta
+📍 Jakarta, Indonesia · 🎓 Universitas Muhammadiyah Surakarta
 
 </div>
 
@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
----
-
-## 🔭 Featured Projects
-
-- 🧠 **[aisix](https://github.com/aldybuanaa/aisix)**: Open-source AI gateway (Rust) with an OpenAI-compatible API for multiple LLM providers.
-- 🖥️ **[aisix-admin-ui](https://github.com/aldybuanaa/aisix-admin-ui)**: Admin dashboard for AISIX Gateway, built with Vue 3 and TypeScript.
 
 ---
 
