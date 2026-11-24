@@ -6,7 +6,7 @@
 *Membangun antarmuka yang terasa hidup dan aplikasi mobile yang rapi.*
 *Building interfaces that feel alive and mobile apps that feel right.*
 
-📍 Surakarta, Indonesia · 🎓 Universitas Muhammadiyah Surakarta
+📍 Jakarta, Indonesia · 🎓 Universitas Muhammadiyah Surakarta
 
 </div>
 
